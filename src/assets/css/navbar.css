@@ -1,0 +1,14 @@
+a {
+    display: flex; 
+    align-self: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Abyssinica SIL', serif;
+  }
+  
+  .navbar {
+    background: #18361a;
+    padding: 20px;
+    color: white;
+  }
